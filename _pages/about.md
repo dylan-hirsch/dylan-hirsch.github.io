@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for your interest in my work! I am a PhD student in the Mechanical and Aersopace Engineering Program at UC San Diego doing research in control theory, a branch of applied math used across engineering disciplines.
-My goal is to use control theory to advance medicine, biology, and technology.
+Thanks for your interest in my work! I am a PhD student in the Mechanical and Aersopace Engineering department at UC San Diego doing research in control theory, a branch of applied math used throughout engineering.
+My goal is to leverage control theory to advance medicine, biology, and technology.
 
 ## Education and training
 I recieved my Bachelor's in Biomedical Engineering from Johns Hopkins University, my Master's in Biological Engineering from MIT, and did research in computational biology at the NIH for two years between these degrees.
@@ -25,4 +25,4 @@ While these technologies can be highly performant, they often fail in unpredicta
 I want to help make our algorithms safer.
 Doing so involves a lot of math and computer science, but also a lot of domain knowledge, so I have to (really get to) speak many languages to do my work.
 
-At a day-to-day level, I also love my research because it involves solving interesting mathematical puzzles and close collaboration with many amazing colleagues.
+At a day-to-day level, I also love my research because it involves solving interesting puzzles and close collaboration with many amazing colleagues.
