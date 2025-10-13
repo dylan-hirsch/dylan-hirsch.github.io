@@ -11,7 +11,8 @@ Thanks for your interest in my work! I am a PhD student in the Mechanical and Ae
 My goal is to leverage control theory to advance medicine, biology, and technology.
 
 ## Education and training
-I recieved my Bachelor's in Biomedical Engineering from Johns Hopkins University, my Master's in Biological Engineering from MIT, and did research in computational biology at the NIH for two years between these degrees.
+I recieved my Bachelor's degree in Biomedical Engineering from Johns Hopkins University with a focus in Computational Biology.
+Afterwards, I did research in computational biology at the NIH for two years, and I subsequently obtained my Master's degree in Biological Engineering from MIT.
 While at MIT, I did research at the intersection of biology and control theory, inspiring my decision to do a PhD in the latter.
 
 I am grateful to be advised by Dr. Sylvia Herbert (https://sylviaherbert.com) and Dr. Boris Kramer (https://kramer.ucsd.edu).
