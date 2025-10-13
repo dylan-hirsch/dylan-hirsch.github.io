@@ -26,4 +26,4 @@ While these technologies can be highly performant, they often fail in unpredicta
 I want to help make our algorithms safer.
 Doing so involves a lot of math and computer science, but also a lot of domain knowledge, so I have to (really get to) speak many languages to do my work.
 
-At a day-to-day level, I also love my research because it involves solving interesting puzzles and close collaboration with many amazing colleagues.
+On a day-to-day level, I love my research because it involves solving interesting puzzles and close collaboration with many amazing colleagues.
