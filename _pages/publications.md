@@ -22,7 +22,7 @@ IEEE Control Systems Letters 9 (2025), pp. 2253–2258.
 and Sylvia Herbert. [Back to base: towards hands-off learning via safe resets with reach-avoid safety
 filters](https://proceedings.mlr.press/v283/begzadic25a.html). In: Proceedings of the 7th Annual Learning for Dynamics & Control Conference. Vol. 283. PMLR,
 2025, pp. 1154–1166.
-7. Rachel Sparks*, Nicholas Rachmaninoff\*, William W Lau\*, Dylan C Hirsch\*, Neha Bansal*, Andrew J
+7. Rachel Sparks\*, Nicholas Rachmaninoff\*, William W Lau\*, Dylan C Hirsch\*, Neha Bansal\*, Andrew J
 Martins, Jinguo Chen, Candace C Liu, ..., and John S Tsang. [A unified metric of human immune health](https://www.nature.com/articles/s41591-024-03092-6).
 In: Nature Medicine (2024).
 8. Dylan Hirsch, Theodore W Grunberg, and Domitilla Del Vecchio. [Error bound for hill-function approxima-
