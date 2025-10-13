@@ -16,7 +16,7 @@ I am also grateful to the various programs that have supported my work: the NIH 
 ## Prior education and training
 I recieved my Bachelor's degree in Biomedical Engineering from Johns Hopkins University with a focus in Computational Biology.
 Afterwards, I did research in computational biology at the NIH for two years, and I subsequently obtained my Master's degree in Biological Engineering from MIT.
-While at MIT, I did research at the intersection of biology and control theory, inspiring my decision to do a PhD in the latter.
+While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a PhD in the latter.
 
 ## Why do you do your research?
 We live in a world increasingly reliant on "black-box" algorithms.
