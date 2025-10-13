@@ -14,7 +14,7 @@ I am grateful to be advised by [Dr. Sylvia Herbert](https://sylviaherbert.com) a
 I am also grateful to the various programs that have supported my work: the NIH Intramural Research Training Award, the NSF Graduate Research Fellowship Program, the NIH-UCSD Interfaces Training Grant, and the ARCS Scholarship.
 
 ## Prior education and training
-I recieved my Bachelor's degree in Biomedical Engineering from Johns Hopkins University with a focus in Computational Biology.
+I recieved my Bachelor's degree in Biomedical Engineering from Johns Hopkins University with a focus in computational biology.
 Afterwards, I did research in computational biology at the NIH for two years, and I subsequently obtained my Master's degree in Biological Engineering from MIT.
 While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a PhD in the latter.
 
