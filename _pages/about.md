@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for your interest in my work! I am a PhD student in the Mechanical and Aersopace Engineering department at UC San Diego doing research in control theory, a branch of applied math used throughout engineering.
+Thanks for your interest in my work! I am a PhD student in the Department of Mechanical and Aersopace Engineering at UC San Diego.
+I do research in control theory, a branch of applied math used throughout engineering.
 My goal is to leverage control theory to advance medicine, biology, and technology.
 
 I am grateful to be advised by [Dr. Sylvia Herbert](https://sylviaherbert.com) and [Dr. Boris Kramer](https://kramer.ucsd.edu).
 I am also grateful to the various programs that have supported my work: the NIH Intramural Research Training Award, the NSF Graduate Research Fellowship Program, the NIH-UCSD Interfaces Training Grant, and the ARCS Scholarship.
 
 ## Prior education and training
-I recieved my Bachelor's degree in Biomedical Engineering from Johns Hopkins University with a focus in computational biology.
-Afterwards, I did research in computational biology at the NIH for two years, and I subsequently obtained my Master's degree in Biological Engineering from MIT.
+I recieved my bachelor's degree in biomedical engineering from Johns Hopkins University with a focus in computational biology.
+Afterwards, I did research in computational biology at the NIH for two years, and I subsequently obtained my master's degree in biological engineering from MIT.
 While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a PhD in the latter.
 
 ## Why do you do your research?
