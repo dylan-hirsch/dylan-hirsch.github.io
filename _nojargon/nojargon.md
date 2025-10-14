@@ -31,29 +31,11 @@ The model-based method takes in a differential-equation model of the system, alo
 As output, it provides a mathematical function, called the value function, which tells the user from which initial states the task can be safely completed and from which the system will fail under worst-case conditions.
 The value function also encodes the optimally safe feedback-control algorithm for the system.
 
-### What are Control Barrier Functions?
-
-Control barrier functions (CBFs) provide another (very popular) approach to designing safer control algorithms.
-However, using this methodology requires an engineer to guess a mathematical function that satisifies certain properties.
-These properties are specific to the system of interest and the hazard one is trying to avoid, making it difficult to use CBFs in general for safe control.
-These functions are typically more difficult to guess for systems which are more challenging to safely control.
-
-It turns out that there is a close mathematical relationship between HJSA and CBFs.
-In particular, HJSA can be used to compute (rather than guess) a CBF for a system and task.
-
 ### What is Model Reduction?
 
 TBD.
 
-### What is Safe Reinforcement Learning?
-
-TBD.
-
 ## What is Computational Biology?
-
-TBD.
-
-### What is 'Omics analysis?
 
 TBD.
 
