@@ -10,7 +10,7 @@ My research uses methods from applied mathematics and computer science to develo
 ## Hamilton-Jacobi safety analysis for designing safety filters
 In self-driving cars, neural networks make complex decisions determining how to steer, break, and accelerate. The rapid advancement in robotics has also required neural networks to allow robots to autonomously navigate and operate in factories and industrial settings, often around human workers. Similar to Large Language Models, neural networks used for controlling machines tend to have impressive average performance, but “hallucinations” can result in perplexing and dangerous worst-case performance.
 
-To solve this issue, one can use safety filters, algorithms that predict potential danger and switch to a safer backup algorithm. It is often unclear, however, when to switch algorithms and what the safe algorithm should do. Advances in applied mathematics and computing, in particular the development of Hamilton-Jacobi safety analysis, are now allowing us to use mathematical models of a technological system to automatically synthesize these safety filters. While these algorithms currently work very well for “small” models, they are computationally intractable for large, detailed models.
+To solve this issue, one can use safety filters, algorithms that predict potential danger and switch to a safer backup algorithm. It is often unclear, however, when to switch algorithms and what the safe algorithm should do. Advances in applied mathematics and computing, in particular the development of Hamilton-Jacobi safety analysis, are now allowing us to use mathematical models of a technological system to automatically synthesize these safety filters. While these algorithms currently work very well for small (i.e. low-dimensional) models, they are computationally intractable for large ones.
 
 The methodological aspects of my research thus center on making Hamilton-Jacobi safety analysis more capable, flexible, and efficient, with theoretical guarantees.
 Doing so involves using ideas from real analysis, general topology, model reduction, reinforcement learning, and partial differential equations.
@@ -24,7 +24,7 @@ Analogously, suppose one wishes to design a drug regimen for a patient in a medi
 In this case, one similarly wishes to reach some therapeutic target (e.g. desired downstream molecular activities), while avoiding a hazard (drug toxicity), despite unknown dynamics (e.g. paramater uncertainty).
 If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorithm, Hamtilon Jacobi safety analysis will then provide the optimal dosing policy, namely how much of each drug to give the patient at each time, to reach the target while avoiding toxicity.
 
-While such an approach holds much promise, biological models tend to be much "bigger" than drone models.
+While such an approach holds much promise, biological models tend to be much higher-dimensional than drone models.
 I am working on biologically-focused model reduction and reinforcement learning algorithms to bridge this gap.
 
 ## Feedback control in biological systems
