@@ -9,11 +9,11 @@ author_profile: true
 
 ## Submitted
 
-1. Dylan Hirsch, William McEneaney, Jaime Fisac, Claire Tomlin, and Sylvia Herbert. An update to the
+1. Dylan Hirsch, William McEneaney, Jaime Fernández Fisac, Claire Tomlin, and Sylvia Herbert. An update to the
 Level Set Theorems in Hamilton-Jacobi reachability analysis. Submitted to IEEE Transactions on
 Automatic Control (as a technical note).
-2. Dylan Hirsch, Jaime Fernández Fisac, and Sylvia Herbert. Viscosity CBFs: bridging the control barrier
-function and Hamilton-Jacobi reachability frameworks in safe control theory. Submitted to the 2026
+2. Dylan Hirsch, Jaime Fernández Fisac, and Sylvia Herbert. [Viscosity CBFs: bridging the control barrier
+function and Hamilton-Jacobi reachability frameworks in safe control theory](https://arxiv.org/abs/2510.09929). Submitted to the 2026
 American Control Conference.
 3.  William Sharpless\*, Dylan Hirsch\*, Sander Tonkens, Nikhil Shinde, and Sylvia Herbert. [Dual-objective
 reinforcement learning with novel Hamilton-Jacobi-Bellman formulations](https://arxiv.org/abs/2506.16016). In: arXiv (2025).
