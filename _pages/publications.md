@@ -20,8 +20,8 @@ reinforcement learning with novel Hamilton-Jacobi-Bellman formulations](https://
 
 ## Published / Accepted
 
-1. Dylan Hirsch and Sylvia Herbert. Approximate Hamilton-Jacobi reachability analysis for a class of
-two-timescale systems, with application to biological models. Accepted to the 64th IEEE Conference on Decision and
+1. Dylan Hirsch and Sylvia Herbert. [Approximate Hamilton-Jacobi reachability analysis for a class of
+two-timescale systems, with application to biological models](https://arxiv.org/abs/2503.11021). Accepted to the 64th IEEE Conference on Decision and
 Control.
 2. Dylan Hirsch and Sylvia Herbert. [Control of Subpopulation Fractions in a Population of Bistable Cells](https://ieeexplore.ieee.org/abstract/document/11177224). In:
 IEEE Control Systems Letters 9 (2025), pp. 2253–2258.
