@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for your interest in my work! I am a PhD student in the Department of Mechanical and Aersopace Engineering at **UC San Diego**.
+Thanks for your interest in my work! I am a PhD student in the Department of Mechanical and Aersopace Engineering at UC San Diego.
 I do research in control theory, a branch of applied math used throughout engineering.
 My goal is to leverage control theory to advance medicine, biology, and technology.
 
