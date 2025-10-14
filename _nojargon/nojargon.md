@@ -33,7 +33,13 @@ The value function also encodes the optimally safe feedback-control algorithm fo
 
 ### What are Control Barrier Functions?
 
-Control barrier functions 
+Control barrier functions (CBFs) provide another (very popular) approach to designing safer control algorithms.
+However, using this methodology requires an engineer to guess a mathematical function that satisifies certain properties.
+These properties are specific to the system of interest and the hazard one is trying to avoid, making it difficult to use CBFs in general for safe control.
+These functions are typically more difficult to guess for systems which are more challenging to safely control.
+
+It turns out that there is a close mathematical relationship between HJSA and CBFs.
+In particular, HJSA can be used to compute (rather than guess) a CBF for a system and task.
 
 ### What is Model Reduction?
 
