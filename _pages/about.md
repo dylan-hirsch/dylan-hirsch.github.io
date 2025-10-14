@@ -11,7 +11,7 @@ Thanks for your interest in my work! I am a PhD student in the Department of Mec
 I do research in control theory, a branch of applied math used throughout engineering.
 My goal is to leverage control theory to advance medicine, biology, and technology.
 
-I am grateful to be advised by [Dr. Sylvia Herbert](https://sylviaherbert.com) and [Dr. Boris Kramer](https://kramer.ucsd.edu).
+I am grateful to be advised by [**Dr. Sylvia Herbert**](https://sylviaherbert.com) and [**Dr. Boris Kramer**](https://kramer.ucsd.edu).
 I am also grateful to the various programs that have supported my work: the [NIH Intramural Research Training Award](https://www.training.nih.gov/research-training/pb/pb/#about-this-program), the [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program), the [NIH-UCSD Interfaces Training Grant](https://interfaces.ucsd.edu), and the [ARCS Foundation Scholarship](https://www.arcsfoundation.org/national-homepage).
 
 ## Prior education and training
