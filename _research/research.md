@@ -25,7 +25,7 @@ In this case, one similarly wishes to reach some therapeutic target (e.g. desire
 If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorithm, Hamtilon Jacobi safety analysis will then provide the optimal dosing policy, namely how much of each drug to give the patient at each time, to reach the target while avoiding toxicity.
 
 While such an approach holds much promise, biological models tend to be much higher-dimensional than drone models and pharmacological tasks can be more intricate.
-I am working on biologically-focused model reduction and reinforcement learning algorithms to bridge these gaps.
+I am working on biology-motivated model reduction and reinforcement learning algorithms to bridge these gaps.
 
 ## Feedback control in biological systems
 Biological systems are experts at feedback control.
