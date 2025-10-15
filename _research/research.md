@@ -27,12 +27,12 @@ If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorith
 While such an approach holds much promise, biological models tend to be much higher-dimensional than drone models and pharmacological tasks can be more intricate.
 I am working on biology-motivated model reduction and reinforcement learning algorithms to bridge these gaps.
 
-## Beyond: feedback control in biological systems
+## Beyond: feedback control in biological systems and biomedical engineering
 Biological systems are experts at feedback control.
 Brains, for example, are essentially the physical implementation of a highly complex feedback control algorithm, and neuroscience research has led to rapid improvements in reinforcement learning.
 Even individual cells implement sophisticated control algorithms within transcriptional networks that regulate gene expression.
 
-On the other hand, engineers use feedback control in biological and medical applications.
-For example, synthetic biologists are working to encode feedback controllers in DNA to more reliably program cellular behaviors.
+On the other hand, engineers use feedback control for biological and medical applications.
+For example, synthetic biologists are currently researching how to encode feedback controllers in DNA to more reliably program cellular behaviors.
 
-I am broadly interested in how to use discoveries in bioscience to inform control theory and how we can make control theory as useful in biomedical engineering as it is in the traditional engineering disciplines.
+I am broadly interested in both (a) how we can use discoveries in bioscience to inform control theory and (b) how we can make control theory as useful in biomedical engineering as it is in the traditional engineering disciplines.
