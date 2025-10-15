@@ -32,7 +32,7 @@ Biological systems are experts at feedback control.
 Brains, for example, are essentially the physical implementation of a highly complex feedback control algorithm, and neuroscience research has led to rapid improvements in reinforcement learning.
 Even individual cells implement sophisticated control algorithms within transcriptional networks that regulate gene expression.
 
-On the other hand, engineers use feedback control for biological and medical applications.
+On the other hand, control theory also has applications in biology and medicine.
 For example, synthetic biologists are currently researching how to encode feedback controllers in DNA to more reliably program cellular behaviors.
 
 I am broadly interested in both (a) how we can use discoveries in bioscience to inform control theory and (b) how we can make control theory as useful in biomedical engineering as it is in the traditional engineering disciplines.
