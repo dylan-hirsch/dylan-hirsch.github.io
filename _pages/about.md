@@ -24,6 +24,6 @@ We live in a world increasingly reliant on "black-box" algorithms.
 They are already being used in self-driving cars and robotics, and they are progressively becoming more central to bioscience and clinical decision-making.
 While these technologies can be highly performant, they often fail in unpredictable and perplexing ways (ever seen a chat-bot hallucinate?).
 
-**I want to help make our algorithms safer and more reliable.**
+**I want to help make our algorithms safer.**
 Doing so involves a lot of math and computer science, but also a lot of domain knowledge, so I have to (really get to) speak many languages to do my work.
 I also love my research because on a day-to-day level, it involves solving interesting puzzles and close collaboration with many amazing colleagues.
