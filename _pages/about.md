@@ -19,7 +19,7 @@ I recieved my bachelor's degree in biomedical engineering from Johns Hopkins Uni
 Afterwards, I did research in computational biology at the National Institutes of Health for two years, and I subsequently obtained my master's degree in biological engineering from MIT.
 While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a PhD in the latter.
 
-## Why do you do your research?
+## Why control theory?
 We live in a world increasingly reliant on "black-box" algorithms.
 They are already being used in self-driving cars and robotics, and they are progressively becoming more central to bioscience and clinical decision-making.
 While these technologies can be highly performant, they often fail in unpredictable and perplexing ways (ever seen a chat-bot hallucinate?).
