@@ -10,7 +10,7 @@ My research uses methods from applied mathematics and computer science to develo
 ## Methods: safety filters and Hamilton-Jacobi safety analysis
 In self-driving cars, neural networks make complex decisions determining how to steer, break, and accelerate. The rapid advancement in robotics has also required neural networks to allow robots to autonomously navigate and operate in factories and industrial settings, often around human workers. Similar to Large Language Models, neural networks used for controlling machines tend to have impressive average performance, but “hallucinations” can result in perplexing and dangerous worst-case performance.
 
-To solve this issue, one can use safety filters, algorithms that predict potential danger and switch to a safer backup algorithm. It is often unclear, however, when to switch algorithms and what the safe algorithm should do. Advances in applied mathematics and computing, in particular the development of Hamilton-Jacobi safety analysis, are now allowing us to use mathematical models of a technological system to automatically synthesize these safety filters. While these algorithms currently work very well for small (i.e. low-dimensional) models, they are computationally intractable for large ones.
+To solve this issue, one can use **safety filters**, algorithms that predict potential danger and switch to a safer backup algorithm. It is often unclear, however, when to switch algorithms and what the safe algorithm should do. Advances in applied mathematics and computing, in particular the development of **Hamilton-Jacobi safety analysis**, are now allowing us to use mathematical models of a technological system to automatically synthesize these safety filters. While these algorithms currently work very well for small (i.e. low-dimensional) models, they are computationally intractable for large ones.
 
 The methodological aspects of my research thus center on making Hamilton-Jacobi safety analysis more capable, flexible, and efficient, with theoretical guarantees.
 Doing so involves using ideas from real analysis, general topology, model reduction, reinforcement learning, and partial differential equations.
@@ -22,7 +22,7 @@ The algorithm will then provide the optimal motor control policy for the drone t
 
 Analogously, suppose one wishes to design a drug regimen for a patient in a medical context.
 In this case, one similarly wishes to reach some therapeutic target (e.g. desired downstream molecular activities), while avoiding a hazard (drug toxicity), despite unknown dynamics (e.g. paramater uncertainty).
-If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorithm, Hamtilon Jacobi safety analysis will then provide the optimal dosing policy, namely how much of each drug to give the patient at each time, to reach the target while avoiding toxicity.
+If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorithm, Hamtilon-Jacobi safety analysis will then provide the optimal dosing policy, namely how much of each drug to give the patient at each time, to accomplish the therapeutic objective while avoiding toxicity.
 
 While such an approach holds much promise, biological models tend to be much higher-dimensional than drone models and pharmacological tasks can be more intricate.
 I am working on biology-motivated model reduction and reinforcement learning algorithms to bridge these gaps.
@@ -30,7 +30,9 @@ I am working on biology-motivated model reduction and reinforcement learning alg
 ## Beyond: feedback control in biological systems
 Biological systems are experts at feedback control.
 Brains, for example, are essentially the physical implementation of a highly complex feedback control algorithm, and neuroscience research has led to rapid improvements in reinforcement learning.
+Even individual cells implement sophisticated control algorithms within transcriptional networks that regulate gene expression.
 
-Cells also implement control algorithms, especially through transcriptional networks.
-I am broadly interested in applications of control in systems \& synthetic biolgy.
+On the other hand, engineers use feedback control in biological and medical applications.
+For example, synthetic biologists are working to encode feedback controllers in DNA to more reliably program cellular behaviors.
 
+I am broadly interested in how to use discoveries in bioscience to inform control theory and how we can make control theory as useful in biomedical engineering as it is in the traditional engineering disciplines.
