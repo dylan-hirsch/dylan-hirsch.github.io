@@ -10,17 +10,18 @@ For those who are unfamiliar with some aspect of my work but interested in learn
 
 ## What is Control Theory? What is Reinforcment Learning?
 
-Control theory is the field of applied mathematics that engineers use when designing feedback-control algorithms.
-A feedback-control algorithm makes decisions in real-time based upon current measurements from the sensors available to the system.
-For example, the feedback-control algorithm that implements cruise-control in a car uses the current speed of the car to determine how much throttle or braking to apply to maintain a desired speed.
-On commerical flights, more sophisticated feedback control algorithms (colloquially called the autopilot) operate planes between takeoff and landing.
+Control theory is the field of applied mathematics that engineers use when designing feedback control algorithms.
+A feedback control algorithm makes decisions in real-time based upon current measurements from the sensors available to the system.
+For example, the control algorithm that implements cruise-control in a car uses the current speed of the car to determine how much throttle or braking to apply to maintain a desired speed.
+On commerical flights, more sophisticated control algorithms (colloquially called the autopilot) operate planes between takeoff and landing.
 
 Traditionally, control algorithms have been designed using a differential equation model of the system's physics.
 These algorithms are called "model-based" approaches.
 By contrast, reinforcement learning (RL) is a "model-free" approach to design control algorithms.
 In other words, they learn to control a system by trial-and-error, using either a computational simulator of the system or the real-world system itself.
-Deep RL methods use artificial neural networks in the learning process to learn a control algorithm more efficiently.
-While deep RL methods have demonstrated some impressive feats, including in robotics and self-driving, these algorithms are also infamous for confidently making bad or unsafe choices.
+
+Deep RL methods use artificial neural networks in the learning process to learn a control algorithm more efficiently than traditional RL methods.
+While deep RL methods have demonstrated some impressive feats, including in robotics and self-driving, they are also infamous for producing control algorithms which confidently make bad or unsafe choices.
 
 ### What is Hamilton-Jacobi safety analysis?
 
