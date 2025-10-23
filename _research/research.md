@@ -21,7 +21,7 @@ To accomplish this task, a user can provide a mathematical model of the drone as
 The algorithm will then provide the optimal motor control policy for the drone to safely complete the task.
 
 Analogously, suppose one wishes to design a drug regimen for a patient in a medical context.
-In this case, one similarly wishes to reach some therapeutic target (e.g. desired downstream molecular activities), while avoiding a hazard (drug toxicity), despite unknown dynamics (e.g. paramater uncertainty).
+In this case, one similarly wishes to reach some therapeutic target (e.g. desired downstream molecular activities), while avoiding a hazard (drug toxicity), despite unknown dynamics (e.g. parameter uncertainty).
 If one supplies a pharmacokinetic / pharmacodynamic (PKPD) model to the algorithm, Hamtilon-Jacobi safety analysis will then provide the optimal dosing policy, namely how much of each drug to give the patient at each time, to accomplish the therapeutic objective while avoiding toxicity.
 
 While such an approach holds much promise, biological models tend to be much higher-dimensional than drone models and pharmacological tasks can be more intricate.
