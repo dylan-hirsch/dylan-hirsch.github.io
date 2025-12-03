@@ -22,7 +22,7 @@ While at MIT, I did research at the intersection of biology and control theory, 
 ## Why control theory?
 We live in a world increasingly reliant on "black-box" control algorithms.
 They are already being used in self-driving cars and robotics, and they will progressively become more central to bioscience and clinical decision-making.
-While these technologies can be highly performant, they often fail in unpredictable and perplexing ways (ever seen a chat-bot hallucinate?).
+While these technologies can be highly performant, they often fail in unpredictable and perplexing ways (similar to how chat-bots hallucinate).
 
 **I want to help make our algorithms safer.**
 Doing so involves a lot of math and computer science, but also a lot of domain knowledge, so I have to (really get to) speak many languages to do my work.
