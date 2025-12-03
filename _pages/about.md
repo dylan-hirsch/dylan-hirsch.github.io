@@ -9,7 +9,8 @@ redirect_from:
 
 Thanks for your interest in my work! I am a Ph.D. student in the Department of Mechanical and Aersopace Engineering at UC San Diego.
 
-I do research in [control theory](https://www.youtube.com/watch?v=lBC1nEq0_nk), a branch of applied math that is used across engineering disciplines and intersects with machine learning in the [reinforcement learning](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74) paradigm.
+I do research in [control theory](https://www.youtube.com/watch?v=lBC1nEq0_nk), a branch of applied math that is used across engineering disciplines.
+Control theory intersects with machine learning to form [reinforcement learning](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74), the third of the major ML paradigms.
 I work on (1) making algorithms for control and reinforcement learning safer in general and (2) specifically applying these algorithms in biology and medicine.
 
 I am grateful to be advised by [Dr. Sylvia Herbert](https://sylviaherbert.com) and [Dr. Boris Kramer](https://kramer.ucsd.edu).
