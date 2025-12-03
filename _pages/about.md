@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 Thanks for your interest in my work! I am a PhD student in the Department of Mechanical and Aersopace Engineering at UC San Diego.
-I do research in [control theory](https://www.youtube.com/watch?v=lBC1nEq0_nk), a branch of applied math that is used throughout engineering and is closely related to [reinforcement learning](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74).
-My goal is to leverage control theory and reinforcment learning to advance medicine, biology, and technology.
+I do research in [control theory](https://www.youtube.com/watch?v=lBC1nEq0_nk), a branch of applied math that is used across engineering disciplines and intersects with machine learning in the [reinforcement learning](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74) paradigm.
+I work on (1) making algorithms for control and reinforcement learning safer in general and (2) specifically applying these algorithms in biology and medicine.
 
 I am grateful to be advised by [Dr. Sylvia Herbert](https://sylviaherbert.com) and [Dr. Boris Kramer](https://kramer.ucsd.edu).
 I am also grateful to the various programs that have supported my work: the [NIH Intramural Research Training Award](https://www.training.nih.gov/research-training/pb/pb/#about-this-program), the [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program), the [NIH-UCSD Interfaces Training Grant](https://interfaces.ucsd.edu), and the [ARCS Foundation Scholarship](https://www.arcsfoundation.org/national-homepage).
 
 ## Prior education and training
-I recieved my bachelor's degree in biomedical engineering from Johns Hopkins University with a focus in computational biology.
+I completed my undergraduate degree in biomedical engineering at Johns Hopkins University, with a focus in computational biology and a minor in computational medicine.
 Afterwards, I did research in computational biology at the National Institutes of Health for two years, and I subsequently obtained my master's degree in biological engineering from MIT.
-While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a PhD in the latter.
+While at MIT, I did research at the intersection of biology and control theory, leading to my decision to do a Ph.D. in the latter.
 
 ## Why control theory?
 We live in a world increasingly reliant on "black-box" algorithms.
