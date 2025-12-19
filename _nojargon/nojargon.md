@@ -35,7 +35,7 @@ The value function also encodes the optimally safe feedback-control algorithm fo
 ### What is model reduction?
 
 Model reduction refers to a set of mathematical and ML tools used to take a large mathematical or computational model and produce a smaller one that approximates the behavior of the original.
-Some algorithms slow down drastically as model size increases, so model reduction can be used to ``pre-process'' a model in order to make it more tractable before analyzing it with such algorithms, only minimally sacrificing accuracy in the process.
+Some algorithms slow down drastically as model size increases, so model reduction can be used to "pre-process" a model in order to make it more tractable before analyzing it with such algorithms, only minimally sacrificing accuracy in the process.
 
 ### How is control theory useful in biology & medicine?
 
