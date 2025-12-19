@@ -8,9 +8,9 @@ author_profile: true
 Given my interdisciplinary work, it's important to me to be able to communicate effectively with researchers in different fields.
 For those who are unfamiliar with some aspect of my work but interested in learning more, here are the basic concepts that underly my research, jargon-free.
 
-## What is Control Theory? What is Reinforcment Learning?
+## What is control theory? What is reinforcment learning?
 
-Control theory is the field of applied mathematics that engineers use when designing feedback control algorithms.
+Control theory is the field of applied mathematics that engineers across disciplines use when designing feedback control algorithms.
 A feedback control algorithm makes decisions in real-time based upon current measurements from the sensors available to the system.
 For example, the control algorithm that implements cruise-control in a car uses the current speed of the car to determine how much throttle or braking to apply to maintain a desired speed.
 On commerical flights, more sophisticated control algorithms (colloquially called the autopilot) operate planes between takeoff and landing.
@@ -32,26 +32,11 @@ The model-based method takes in a differential-equation model of the system, alo
 As output, it provides a mathematical function, called the value function, which tells the user from which initial states the task can be safely completed and from which the system will fail under worst-case conditions.
 The value function also encodes the optimally safe feedback-control algorithm for the system.
 
-### What is Model Reduction?
+### What is model reduction?
 
-TBD.
-
-## What is Computational Biology?
-
-TBD.
-
-### What is a Gene Network?
-
-TBD.
-
-## Where do control theory and biology intersect?
-
-TBD.
+Model reduction refers to a set of mathematical and ML tools used to take a large mathematical or computational model and produce a smaller one that approximates the behavior of the original.
+Some algorithms slow down drastically as model size increases, so these model reduction algorithms can be used to ``pre-process'' a model in order to make it more tractable for downstream analysis while minimally sacrificing accuracy.
 
 ### How is control theory useful in biology & medicine?
-
-TBD.
-
-### What does biology teach us about control theory?
 
 TBD.
