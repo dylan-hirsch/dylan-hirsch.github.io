@@ -20,7 +20,7 @@ These algorithms are called "model-based" approaches.
 By contrast, reinforcement learning (RL) is a "model-free" approach to design control algorithms.
 In other words, RL approaches learn to control a system by trial-and-error, using either a computational simulator of the system or the real-world system itself.
 
-Deep RL methods use artificial neural networks in the learning process to learn a control algorithm more efficiently than traditional RL methods.
+[Deep RL methods](https://deepmind.google/blog/deep-reinforcement-learning/) use artificial neural networks in the learning process to learn a control algorithm more efficiently than traditional RL methods.
 While deep RL methods have demonstrated some impressive feats, including in robotics and self-driving, they are also infamous for producing control algorithms which confidently make bad or unsafe choices.
 
 ### What is Hamilton-Jacobi safety analysis?
