@@ -8,7 +8,7 @@ author_profile: true
 Given my interdisciplinary work, it's important to me to be able to communicate effectively with researchers in different fields.
 For those who are unfamiliar with some aspect of my work but interested in learning more, here are the basic concepts that underly my research, jargon-free.
 
-## What is control theory? What is reinforcment learning?
+### What is control theory? What is reinforcment learning?
 
 Control theory is the field of applied mathematics that engineers across disciplines use when designing feedback control algorithms.
 A feedback control algorithm makes decisions in real-time based upon current measurements from the sensors available to the system.
