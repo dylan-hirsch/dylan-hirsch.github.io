@@ -30,7 +30,8 @@ HJSA comes in both model-based and model-free flavors.
 
 The model-based method takes in a differential-equation model of the system, along with information about the locations of goals and hazards in the environment.
 As output, it provides a mathematical function, called the value function, which tells the user from which initial states the task can be safely completed and from which the system will fail under worst-case conditions.
-The value function also encodes the optimally safe feedback-control algorithm for the system.
+
+Critically, the value function also encodes the optimally safe feedback-control algorithm for the system, making HJSA a key tool for synthesizing safe controllers.
 
 ### What is model reduction?
 
