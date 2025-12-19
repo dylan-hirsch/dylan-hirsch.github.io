@@ -26,7 +26,7 @@ While deep RL methods have demonstrated some impressive feats, including in robo
 ### What is Hamilton-Jacobi safety analysis?
 
 Hamilton-Jacobi safety analysis (HJSA) is a method by which to design a control algorithm that is optimally safe in a precise mathematical sense.
-HJSA comes in model-based and model-free flavors.
+HJSA comes in both model-based and model-free flavors.
 
 The model-based method takes in a differential-equation model of the system, along with information about the locations of goals and hazards in the environment.
 As output, it provides a mathematical function, called the value function, which tells the user from which initial states the task can be safely completed and from which the system will fail under worst-case conditions.
