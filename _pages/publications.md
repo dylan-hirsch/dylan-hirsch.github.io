@@ -8,8 +8,8 @@ author_profile: true
 # Publications
 
 ## Pre-print / Submitted
-1. Dylan Hirsch\*, William Sharpless\* and Sylvia Herbert. [Exact Decomposition of Adversarial Dual-Objective Value Functions,
-with Applications to Optimal Drug Dosing]. Submitted to the 2026 IEEE 65th Conference on Decision and Control (CDC). 
+1. Dylan Hirsch\*, William Sharpless\* and Sylvia Herbert. Exact Decomposition of Adversarial Dual-Objective Value Functions,
+with Applications to Optimal Drug Dosing. Submitted to the 2026 IEEE 65th Conference on Decision and Control (CDC). 
 2. Nikhil Shinde, Dylan Hirsch, Michael Yip, and Sylvia Herbert. [Safe Stochastic Explorer: Enabling Safe Goal Driven Exploration in Stochastic Environments and Safe Interaction with Unknown Objects](https://arxiv.org/abs/2602.00868). Submitted to IEEE Transactions on Robotics.
 3. Haixin Jin, Nikhil Shinde, Soofiyan Atar, Hongzhan Yu, Dylan Hirsch, Sicun Gao, Michael Yip, Sylvia Herbert. [Learning to Nudge: A Scalable Barrier Function Framework for Safe Robot Interaction in Dense Clutter](https://arxiv.org/abs/2601.02686). Pre-print: arXiv:2601.02686.
 
