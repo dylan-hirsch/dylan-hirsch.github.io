@@ -38,6 +38,10 @@ Critically, the value function also encodes the optimally safe feedback-control 
 Model reduction refers to a set of mathematical and ML tools used to take a large mathematical or computational model and produce a smaller one that approximates the behavior of the original.
 Some algorithms slow down drastically as model size increases, so model reduction can be used to "pre-process" a model in order to make it more tractable before analyzing it with such algorithms, only minimally sacrificing accuracy in the process.
 
-### How is control theory useful in biology & medicine?
+### How is control theory useful for understanding biology?
+Biological systems use sophisticated feedback control mechanisms to maintain homeostasis and respond to perturbations.
+The cyclic nature of feedback, however, makes it scientifically difficult to decipher what aspects of a phenotype arise due to an external perturbation (e.g. a disease) versus the organism's response to the perturbation.
+Mathematical models and control theoretic analyses can help make sense of these webs of cause and effect.
 
-TBD.
+In addition, these ``dynamical system'' models are useful for understanding what are the minimal components needed to produce some biological phenotype, allowing scientists to reason about complex biological processes.
+Such approaches have been useful in understanding [metabolism](https://en.wikipedia.org/wiki/Michaelis–Menten_kinetics), [gene regulation](https://www.google.com/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=en&gbpv=1&dq=an+introduction+to+systems+biology&pg=PP1&printsec=frontcover), [action potentials](https://www.nature.com/articles/nn1100_1165), and [reinforcement learning](https://www.annualreviews.org/docserver/fulltext/neuro/35/1/annurev-neuro-062111-150512.pdf?expires=1788981395&id=id&accname=ar-421659&checksum=FF6E3772C287EDDB94D6E382EF8BCB4B).
